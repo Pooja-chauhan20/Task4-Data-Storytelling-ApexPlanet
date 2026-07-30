@@ -1,0 +1,21 @@
+Hypothesis Testing Summary - Task 4
+
+1. Objective: 
+To determine if there is a statistically significant difference in the Average Order Value (Total Sales) between Male and Female customers.
+
+2. Statistical Test Performed: 
+Independent Two-Sample T-Test (using Python and SciPy).
+
+3. Hypotheses:
+- Null Hypothesis (H0): There is no significant difference in spending based on gender.
+- Alternative Hypothesis (H1): There is a significant difference in spending based on gender.
+
+4. Results:
+- T-statistic: 1.45 
+- P-value: 0.15
+
+5. Business Conclusion: 
+Since the p-value (0.15) is greater than 0.05, we fail to reject the Null Hypothesis. This indicates that gender does not significantly impact the average spending amount. 
+
+6. Recommendation: 
+Marketing campaigns should prioritize targeting based on high-performing Cities and Age groups, rather than creating separate ad campaigns purely based on gender.
